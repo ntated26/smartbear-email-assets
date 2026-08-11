@@ -1,0 +1,1 @@
+# smartbear-email-assets
